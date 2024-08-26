@@ -1,2 +1,2 @@
-- Testing NUnit functionality: add to cart.
-- Testing webdriver functionality: Login, add to cart, search product.
+- Testing NUnit functionality: Adding to cart .
+- Testing Webdriver functionality: Login, add to cart, search for product.
