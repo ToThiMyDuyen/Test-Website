@@ -1,2 +1,4 @@
-- Testing NUnit functionality: Adding to cart .
-- Testing Webdriver functionality: Login, add to cart, search for product.
+- Automated testing of Nuty Cosmetic website functionalities: login, product search, add to cart.
+- Writing testcases.
+- Read information from CSV file and automatically search for products.
+- Automated browser actions: Chrome browser, interacting with elements on the webpage.
